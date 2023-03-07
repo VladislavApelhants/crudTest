@@ -1,0 +1,28 @@
+{
+  "books": [
+{
+  "id":1,
+"tittle": "title 1",
+"genres": [ "horror", "fantasy"],
+"rating":9.2
+},
+{
+  "id":2,
+"tittle": "title 2",
+"genres": ["fantasy"],
+"rating":2.2
+},
+{
+  "id":3,
+"tittle": "title 3",
+"genres": [ "horror", "fantasy"],
+"rating":3.1
+},
+{
+  "id":4,
+"tittle": "title 4",
+"genres": [ "horror"],
+"rating":7.0
+}
+  ]
+}
