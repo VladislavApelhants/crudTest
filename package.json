@@ -1,16 +1,16 @@
 {
-  "name": "crudTest",
+  "name": "csv-ajax",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://VladislavApelhants.github.io/crudTest",
+  "homepage": "https://VladislavApelhants.github.io/csv-ajax",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /crudTest/",
+    "build": "parcel build src/*.html --public-url /csv-ajax/",
     "server": "json-server --watch db.json"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VladislavApelhants/crudTest.git"
+    "url": "git+https://github.com/VladislavApelhants/csv-ajax.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
